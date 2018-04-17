@@ -1,3 +1,10 @@
+## 深度强化学习综述与围棋AI  
+* 赵冬斌, 邵坤, 朱圆恒, 等. **深度强化学习综述: 兼论计算机围棋的发展**. 控制理论与应用, 2016, 33(6): 701-717.
+
+
+* 唐振韬, 赵冬斌, 邵坤, 等. **深度强化学习进展: 从 AlphaGo 到 AlphaGo Zero**. 控制理论与应用, 2018, 34(12): 1529-1546.  
+http://jcta.cnjournals.com/cta_cn/ch/reader/view_abstract.aspx?file_no=CCTA170808&flag=1
+
 ## Gomoku 
 
 * Zhao D, Zhang Z, Dai Y. **Self-teaching adaptive dynamic programming for Gomoku**. Neurocomputing, 2012, 78(1): 23-29.    
@@ -25,5 +32,6 @@ https://ieeexplore.ieee.org/abstract/document/8280949/
 https://arxiv.org/abs/1804.00810
 
 ## ViZDoom  
-* Shao K，Zhao D., Zhu Y. **Visual Navigation with Actor-Critic Deep Reinforcement Learning**. IEEE International Joint Conference on Neural Networks (IJCNN). 2018.  
+* Shao K，Zhao D., Zhu Y. **Visual navigation with actor-critic deep reinforcement learning**. IEEE International Joint Conference on Neural Networks (IJCNN). 2018.  
 TBD
+
