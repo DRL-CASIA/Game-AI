@@ -35,7 +35,10 @@ https://ieeexplore.ieee.org/abstract/document/8280949/
 * Shao K，Zhu Y, Zhao D. **StarCraft micromanagement with reinforcement learning and curriculum transfer learning**. IEEE Transactions on Emerging Topics in Computational Intelligence, 2018.  
 https://arxiv.org/abs/1804.00810
 
+* Tang Z, Zhao D, Zhu Y, Guo P. **Reinforcement learning for build-order production in StarCraft II**. International Conference on Information Society and Techology, 2018.  
+TBD
+
 ## ViZDoom  
-* Shao K，Zhao D., Zhu Y. **Visual navigation with actor-critic deep reinforcement learning**. IEEE International Joint Conference on Neural Networks (IJCNN). 2018.  
+* Shao K，Zhao D, Zhu Y. **Visual navigation with actor-critic deep reinforcement learning**. IEEE International Joint Conference on Neural Networks (IJCNN). 2018.  
 TBD
 
