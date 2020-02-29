@@ -2,7 +2,6 @@
 Publications of our lab in terms of Game AI   
 
 
-From our group for Game AI
 ## 深度强化学习综述与围棋AI  
 * 赵冬斌, 邵坤, 朱圆恒, 等. **深度强化学习综述: 兼论计算机围棋的发展**. 控制理论与应用, 2016, 33(6): 701-717.  
 D. Zhao, K. Shao, Y. Zhu, D. Li, Y. Chen, H. Wang, D. Liu, T. Zhou, and C. Wang, “Review of deep reinforcement learning and discussions
