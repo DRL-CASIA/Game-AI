@@ -40,9 +40,9 @@ https://ieeexplore.ieee.org/abstract/document/8280949/
 https://arxiv.org/abs/1804.00810
 
 * Tang Z, Zhao D, Zhu Y, Guo P. **Reinforcement learning for build-order production in StarCraft II**. International Conference on Information Society and Techology, 2018.  
-TBD
+https://ieeexplore.ieee.xilesou.top/abstract/document/8426160/
 
 ## ViZDoom  
 * Shao K，Zhao D, Zhu Y. **Visual navigation with actor-critic deep reinforcement learning**. IEEE International Joint Conference on Neural Networks (IJCNN). 2018.  
-TBD
+https://ieeexplore.ieee.xilesou.top/abstract/document/8489185/
 
