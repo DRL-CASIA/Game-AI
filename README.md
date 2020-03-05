@@ -1,7 +1,7 @@
 # Game-AI
 Publications of our lab in terms of Game AI   
 
-More Related works can be seen in our [Wiki](https://github.com/DRL-CASIA/Game-AI/wiki)
+More related works can be seen in our [Wiki](https://github.com/DRL-CASIA/Game-AI/wiki)
 
 ## 深度强化学习综述与围棋AI  
 * 赵冬斌, 邵坤, 朱圆恒, 等. **深度强化学习综述: 兼论计算机围棋的发展**. 控制理论与应用, 2016, 33(6): 701-717.  
